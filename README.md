@@ -6,7 +6,11 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-cascade-jupyter/blob/main/stable_cascade_jupyter.ipynb) | stable_cascade_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-cascade-jupyter/blob/main/stable_cascade_gradio_jupyter.ipynb) | stable_cascade_gradio_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Stability-AI/StableCascade/blob/master/inference/text_to_image.ipynb) | text_to_image (Author Jupyter Notebook)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Stability-AI/StableCascade/blob/master/inference/controlnet.ipynb) | controlnet (Author Jupyter Notebook)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Stability-AI/StableCascade/blob/master/inference/lora.ipynb) | lora (Author Jupyter Notebook)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Stability-AI/StableCascade/blob/master/inference/reconstruct_images.ipynb) | reconstruct_images (Author Jupyter Notebook)
 
 ### 🧬 Code
 https://github.com/Stability-AI/StableCascade
